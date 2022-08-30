@@ -1,4 +1,6 @@
 # test1
-SENG LAB1
+Software Engineering Lab 3
+
+this is me
 
 test commit
